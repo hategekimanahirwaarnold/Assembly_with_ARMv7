@@ -9,4 +9,3 @@ Assembly code is generally easily understood by CPU and is much faster compared 
 The assembly code in this repository is for ARMv7 archtecture.
 
 ## By Hirwa Arnold
-
